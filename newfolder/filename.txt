@@ -2,4 +2,4 @@ This file is in a new folder
 
 This new file in the folder has now been modified and will be pushed to a new stream.
 
-Feature 1 with new rules
+
