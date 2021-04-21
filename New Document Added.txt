@@ -6,4 +6,8 @@ Added a new line from the browser
 
 And this one is also edited
 
-Just one last one 
+Just one last one
+
+One from this folder
+
+Once again just to test the commits
